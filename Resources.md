@@ -7,3 +7,5 @@
 ## React
 - Intro - [https://www.freecodecamp.org/news/react-beginner-handbook/#usingjsxtocomposeaui](https://www.freecodecamp.org/news/react-beginner-handbook/#usingjsxtocomposeaui)
 - Hooks - [https://reactjs.org/docs/hooks-intro.html](https://reactjs.org/docs/hooks-intro.html)
+- useEffect (video) - [https://www.youtube.com/watch?v=0ZJgIjIuY7U&ab_channel=WebDevSimplified](https://www.youtube.com/watch?v=0ZJgIjIuY7U&ab_channel=WebDevSimplified)
+- useEffect - [https://reactjs.org/docs/hooks-effect.html](https://reactjs.org/docs/hooks-effect.html)
