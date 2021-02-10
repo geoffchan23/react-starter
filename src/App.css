@@ -4,20 +4,38 @@ body {
 
 .App {
   margin : 3em auto;
-  padding: 3em;
+  padding: 1em;
   box-sizing: border-box;
   width: 600px;
 }
 
-input {
+input, select {
   padding: 1em;
   width: 100%;
   box-sizing: border-box;
-  font-size: 1.5em;
+  font-size: 1.25em;
   margin-bottom: 10px;
 }
 
+input.invalid {
+  border: 1px solid red;
+  outline: 1px solid red;
+}
+
 button {
-  font-size: 1.5em;
+  font-size: 1.25em;
   padding: 1em 1.5em;
+  width: 100%;
+  border: 1px solid grey;
+  cursor: pointer;
+}
+
+select {
+  text-transform: capitalize;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position-x: 98%;
+  background-position-y: 50%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
 }

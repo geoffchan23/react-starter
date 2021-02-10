@@ -9,3 +9,18 @@
 - Hooks - [https://reactjs.org/docs/hooks-intro.html](https://reactjs.org/docs/hooks-intro.html)
 - useEffect (video) - [https://www.youtube.com/watch?v=0ZJgIjIuY7U&ab_channel=WebDevSimplified](https://www.youtube.com/watch?v=0ZJgIjIuY7U&ab_channel=WebDevSimplified)
 - useEffect - [https://reactjs.org/docs/hooks-effect.html](https://reactjs.org/docs/hooks-effect.html)
+
+# VS Code Plugins
+- Better Align
+- Reactjs code snippets
+- TODO Highlight
+- Import Cost
+- ES7 React/Redux/GraphQL/React-Native snippets
+- Color Highlight
+- Auto Close Tag
+- Auto Rename Tag
+- Path Intellisense
+- Prettier
+- Visual Studio IntelliCode
+- Gitlens
+- Live Share
